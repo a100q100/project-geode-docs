@@ -9,13 +9,12 @@
 		<p><keyword keyref="product_name_long"/> offers three HTTP session management modules: <ul
 				id="ul_199E519BC11948ECB8BB503E52AE8DE2">
 				<li id="li_0AA40F1F9C5246A0AA350A20EC0B92A1">
-					<keyword keyref="product_name_long"/> HTTP Session Management Module 8.1 for tc
+					<keyword keyref="product_name_long"/> HTTP Session Management Module for tc
 					Server </li>
 				<li id="li_23A813F530BD4E49B9F492F52309AE11">
-					<keyword keyref="product_name_long"/> HTTP Session Management Module 8.1 for
-					Tomcat </li>
+					<keyword keyref="product_name_long"/> HTTP Session Management Module for Tomcat </li>
 				<li id="li_923F73B12BEE4A4E81928C3A1C0AF0DB">
-					<keyword keyref="product_name_long"/> HTTP Session Management Module 8.1 for
+					<keyword keyref="product_name_long"/> HTTP Session Management Module for
 					AppServers </li>
 			</ul>
 		</p>
