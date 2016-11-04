@@ -29,7 +29,7 @@
 			<title>Sample Code</title>
 			<p>
 				<codeblock>// Identify your query string.
- String queryString = SELECT DISTINCT * FROM /exampleRegion p WHERE p.status = $1;
+ String queryString = "SELECT DISTINCT * FROM /exampleRegion p WHERE p.status = $1";
 
 // Get QueryService from Cache.
 QueryService queryService = cache.getQueryService();

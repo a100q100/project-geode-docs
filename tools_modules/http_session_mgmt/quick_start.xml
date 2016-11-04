@@ -69,7 +69,7 @@
 									</row>
 									<row>
 										<entry colname="col1">tc Server</entry>
-										<entry colname="col02">3.0</entry>
+										<entry colname="col02">3.0, 3.1, and 3.2</entry>
 										<entry colname="col2"><xref
 												href="https://network.pivotal.io/products/pivotal-tcserver"
 												format="html" scope="external"
@@ -200,7 +200,7 @@
 									</row>
 									<row>
 										<entry colname="col1">tc Server</entry>
-										<entry colname="col02">3.0</entry>
+										<entry colname="col02">3.0, 3.1, and 3.2</entry>
 										<entry colname="col3">HTTP Session Management Module for
 											Pivotal tc Server 3.0</entry>
 										<entry colname="col2"><codeph>&lt;tc Server root

@@ -29,6 +29,10 @@
 				<codeblock>&lt;Manager className="com.gemstone.gemfire.modules.session.catalina.
                          Tomcat7DeltaSessionManager"/&gt; </codeblock>
 			</p>
+			<p>For Tomcat 8.0 and 8.5:
+				<codeblock>&lt;Manager className="com.gemstone.gemfire.modules.session.catalina.
+                         Tomcat8DeltaSessionManager"/&gt; </codeblock>
+			</p>
 			<p>Without making any further configuration changes, peers attempt to locate each other
 				using a default multicast channel (as defined by the <codeph>mcast-port</codeph>
 				property found in <xref
@@ -61,6 +65,10 @@
 			<p>For Tomcat 7.0:
 				<codeblock>&lt;Manager className="com.gemstone.gemfire.modules.session.catalina.
                          Tomcat7DeltaSessionManager"/&gt; </codeblock>
+			</p>
+			<p>For Tomcat 8.0 and 8.5:
+				<codeblock>&lt;Manager className="com.gemstone.gemfire.modules.session.catalina.
+                         Tomcat8DeltaSessionManager"/&gt; </codeblock>
 			</p>
 			<p>Since the application server operates as a <keyword keyref="product_name"/> client in
 				this configuration, you must manually launch a <keyword keyref="product_name"/>
